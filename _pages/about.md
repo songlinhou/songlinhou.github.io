@@ -17,7 +17,7 @@ My research areas lie in computer vision and machine learning, especially in dee
 ---
 
 ## Recent News
-* 01/03/2025 Paper **Mobile Augmented Reality Framework with Fusional Localization and Pose Estimation** was accepted at [Interdisciplinary Information Sciences Special Issue](https://gp-ds.tohoku.ac.jp/en/events/iis-2024.html). ([Link](https://arxiv.org/pdf/2501.03336)), 1st author. 
+* 01/03/2025 Paper [**Mobile Augmented Reality Framework with Fusional Localization and Pose Estimation**](https://arxiv.org/pdf/2501.03336) was accepted at [Interdisciplinary Information Sciences Special Issue](https://gp-ds.tohoku.ac.jp/en/events/iis-2024.html). 1st author. 
 
 * 10/14/2024 Paper [**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**](https://arxiv.org/pdf/2409.06171) was accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024 as an Oral presentation. Co-first author.
 
