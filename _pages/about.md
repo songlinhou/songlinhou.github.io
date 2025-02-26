@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
+## About Me
 I am a software engineer at Dell Technologies working on AI/ML solutions on storage. I am also a volunteery research engineer at Worcester Polytechnic Institute, working in VIS-Lab (Vision, Intelligence, and System Laboratory) led by Prof. Ziming Zhang focusing on deep learning and computer vision. 
 
 I obtained Master of Computer Science from Georgia Institute of Technology (part-time) and Master of Data Science from University of Texas at Austin (part-time) during 2021-2025. I also obtained Master of Computer Science degree from Worcester Polytechnic Institute, before I joined Dell Technologies. Prior to that, I was a research assistant in the department of computing at The Hong Kong Polytechnic University. I obtained my first master degree in computer science from University of Chinese Academy of Sciences and bachelor degree in computer science from Hohai University.
@@ -16,7 +16,7 @@ My research areas lie in computer vision and machine learning, especially in dee
 
 ---
 
-# Recent News
+## Recent News
 * 01/03/2025 Paper **Mobile Augmented Reality Framework with Fusional Localization and Pose Estimation** was accepted at [Interdisciplinary Information Sciences Special Issue](https://gp-ds.tohoku.ac.jp/en/events/iis-2024.html). ([Link](https://arxiv.org/pdf/2501.03336)), 1st author. 
 
 * 10/14/2024 Paper [**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**](https://arxiv.org/pdf/2409.06171) was accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024 as an Oral presentation. Co-first author.
