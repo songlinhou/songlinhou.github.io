@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About Me
-I am a software engineer at Dell Technologies working on AI/ML solutions on storage. I am also a volunteery research engineer at Worcester Polytechnic Institute, working in VIS-Lab (Vision, Intelligence, and System Laboratory) led by Prof. Ziming Zhang focusing on deep learning and computer vision. 
+I am a software engineer at Dell Technologies working on AI/ML solutions on storage. I am also a volunteery research engineer at Worcester Polytechnic Institute, working in <a href="https://zhang-vislab.github.io/" target="_blank">VIS-Lab</a> (Vision, Intelligence, and System Laboratory) led by Prof. Ziming Zhang focusing on deep learning and computer vision. 
 
 I obtained Master of Computer Science from Georgia Institute of Technology (part-time) and Master of Data Science from University of Texas at Austin (part-time) during 2021-2025. I also obtained Master of Computer Science degree from Worcester Polytechnic Institute, before I joined Dell Technologies. Prior to that, I was a research assistant in the department of computing at The Hong Kong Polytechnic University. I obtained my first master degree in computer science from University of Chinese Academy of Sciences and bachelor degree in computer science from Hohai University.
 
