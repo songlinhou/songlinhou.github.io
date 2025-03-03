@@ -17,6 +17,9 @@ My research areas lie in computer vision and machine learning, especially in mul
 ---
 
 ## Recent News
+
+* 02/01/2025 - 03/01/2025 I was invited as conference peer reviewer for ICLR, IJCAI, IJCNN, KDD, MIDL and CHIL.
+
 * 02/26/2025 Preprint [**BarkXAI: A Lightweight Post-Hoc Explainable Method for Tree Species Classification with Quantifiable Concepts**](https://arxiv.org/abs/2502.18844) is online.
 
 * 01/03/2025 Paper [**Mobile Augmented Reality Framework with Fusional Localization and Pose Estimation**](https://arxiv.org/pdf/2501.03336) was accepted at [Interdisciplinary Information Sciences Special Issue](https://gp-ds.tohoku.ac.jp/en/events/iis-2024.html). 1st author. 
